@@ -2,11 +2,8 @@
 for bubble sort
 1. we need to compare side by side 2 number
 2. replace their position if first element is greater than second element
-3. continue it to the last index
-4. 
+3. continue it to the last unsorted element
 */
-
-
 
 import 'dart:io';
 
