@@ -1,3 +1,13 @@
+/*
+for bubble sort
+1. we need to compare side by side 2 number
+2. replace their position if first element is greater than second element
+3. continue it to the last index
+4. 
+*/
+
+
+
 import 'dart:io';
 
 List<int> bubbleSort({required List<int> list}) {
